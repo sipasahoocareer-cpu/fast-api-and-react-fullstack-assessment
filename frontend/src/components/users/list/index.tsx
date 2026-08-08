@@ -1,4 +1,4 @@
-import type { User } from "@/api/users";
+import type { User } from "@/services/api/users";
 
 import { Card } from "./card";
 import { Empty } from "./empty";
